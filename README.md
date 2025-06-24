@@ -77,4 +77,4 @@ Always review flagged processes manually before taking any action.
 ## 👨‍💻 Author
 
 Mohammad Ali — Security enthusiast & developer  
-GitHub: https://github.com/[your-profile]  
+GitHub: https://github.com/GTAexcess
